@@ -1,0 +1,16 @@
+main()
+{
+	this is main 
+}
+add()
+{
+	this is add
+}
+sub()
+{
+	this is sub
+}
+mul()
+{
+	this is mul
+}
